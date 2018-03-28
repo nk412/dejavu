@@ -1,4 +1,4 @@
-dejavu: The missing Web UI for Elasticsearch
+dejavu: Just another Web UI for Elasticsearch
 ====
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/appbaseio/dejavu/dev/LICENSE.md)  ![React Version](https://img.shields.io/badge/react-v15.6-brightgreen.svg)
@@ -23,7 +23,7 @@ dejavu: The missing Web UI for Elasticsearch
 
 ### 1. Dejavu Intro
 
-**dejavu** is the missing web UI for Elasticsearch. Existing web UIs leave much to be desired or are built with server-side page rendering techniques that make it less responsive and bulkier to run (I am looking at you, Kibana).
+**dejavu** is the just another web UI for Elasticsearch. Existing web UIs leave much to be desired or are built with server-side page rendering techniques that make it less responsive and bulkier to run (I am looking at you, Kibana).
 
 We started building dejavu with the goal of creating a modern Web UI (no page reloads, infinite scroll, filtered views, realtime updates) for Elasticsearch with 100% client-side rendering so one can easily run it as a [hosted app on github pages](https://opensource.appbase.io/dejavu/live), [as a chrome extension](https://chrome.google.com/webstore/detail/dejavu/jopjeaiilkcibeohjdmejhoifenbnmlh) or [as a docker image](https://hub.docker.com/r/appbaseio/dejavu/).
 
